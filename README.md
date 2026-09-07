@@ -28,14 +28,14 @@ The dataset consists of 50 startup records containing operational spending detai
 
 ## 🛠️ Tech Stack & Tools
 * **Database & Querying:** MySQL
-* **Programming Language:** Python[cite: 1]
-* **Libraries:** Pandas, NumPy, Scikit-Learn[cite: 1]
-* **Data Visualization:** Power BI[cite: 1]
+* **Programming Language:** Python
+* **Libraries:** Pandas, NumPy, Scikit-Learn
+* **Data Visualization:** Power BI
 
 ---
 
 ## 📈 Model Performance & Evaluation
-A **Multiple Linear Regression** model was trained using an 80/20 train-test split (`test_size=0.2`, `random_state=42`)[cite: 1].
+A **Multiple Linear Regression** model was trained using an 80/20 train-test split (`test_size=0.2`, `random_state=42`).
 
 ```python
 # Feature & Label Selection
@@ -48,12 +48,4 @@ Xtrain, Xtest, Ytrain, Ytest = train_test_split(features, label, test_size=0.2, 
 # Model Training
 model = LinearRegression()
 model.fit(Xtrain, Ytrain)
-
-----
-
-<img width="1920" height="1080" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/b1b70d1c-fbb8-4bf4-a619-ceac019ea2ff" />
-
-## Author
-
-Manoj Prabhakar
 
