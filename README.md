@@ -51,7 +51,7 @@ model.fit(Xtrain, Ytrain)
 
 ----
 
-<img width="1336" height="746" alt="image" src="https://github.com/user-attachments/assets/43d75fed-8b73-4579-aedc-db9857e0c06c" />
+<img width="1336" height="746" alt="image" src="https://github.com/user-attachments/assets/43d75fed-8b73-4579-aedc-db9857e0c06c"/>
 
 
 ----
