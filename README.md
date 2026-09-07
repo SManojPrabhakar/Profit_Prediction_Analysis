@@ -51,11 +51,9 @@ model.fit(Xtrain, Ytrain)
 
 ----
 
+<img width="1920" height="1080" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/b1b70d1c-fbb8-4bf4-a619-ceac019ea2ff" />
 
-----
 ## Author
 
 Manoj Prabhakar
 
-
-<img width="1920" height="1080" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/b1b70d1c-fbb8-4bf4-a619-ceac019ea2ff" />
