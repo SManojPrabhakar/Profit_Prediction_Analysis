@@ -50,9 +50,7 @@ model = LinearRegression()
 model.fit(Xtrain, Ytrain)
 
 ----
-<img width="1322" height="738" alt="Screenshot 2026-09-07 223613" src="https://github.com/user-attachments/assets/f5087f03-e5cb-4bac-a7c4-dd65d7c57d43" />
-
-
+<img width="1920" height="1080" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/b1b70d1c-fbb8-4bf4-a619-ceac019ea2ff" />
 
 ----
 ## Author
