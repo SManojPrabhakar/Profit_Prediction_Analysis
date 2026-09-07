@@ -49,3 +49,13 @@ Xtrain, Xtest, Ytrain, Ytest = train_test_split(features, label, test_size=0.2, 
 model = LinearRegression()
 model.fit(Xtrain, Ytrain)
 
+```
+<img width="1322" height="738" alt="Screenshot 2026-09-07 223613" src="https://github.com/user-attachments/assets/c85b3b09-0b42-48a4-90a6-c1740b834c08" />
+
+---
+
+## 👤 Author
+
+**Manoj Prabhakar**
+
+
